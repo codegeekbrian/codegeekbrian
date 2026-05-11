@@ -1,11 +1,11 @@
 # Hi, I'm Brian 👋
 
-Software Engineering graduate based in Meru, Kenya.
+Software Engineering graduate based in  Kenya.
 I build full-stack web apps and machine learning models —
 from idea to working product.
 
 ## 🛠 Tech Stack
-**Languages:** Python · JavaScript · PHP · Java · SQL  
+**Languages:** Python · JavaScript · PHP  · SQL  
 **Frontend:** React · HTML · CSS  
 **Backend:** Python · PHP  
 **ML & Data:** Jupyter Notebook · Scikit-learn  
