@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Brian 👋
 
-<!--
-**codegeekbrian/codegeekbrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering graduate based in Meru, Kenya.
+I build full-stack web apps and machine learning models —
+from idea to working product.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+**Languages:** Python · JavaScript · PHP · Java · SQL  
+**Frontend:** React · HTML · CSS  
+**Backend:** Python · PHP  
+**ML & Data:** Jupyter Notebook · Scikit-learn  
+**Databases:** MySQL · Oracle DB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+|  [MoodTune 🎵](https://moodtune-v1.vercel.app) | Music recommendation system based on user mood — try it live | Python · React · ML |
+| [Facial Recognition](https://github.com/codegeekbrian/Facial_Recogniton_Train_Model) | Trained facial recognition model | Python · Jupyter |
+| [CARSHOW](https://github.com/codegeekbrian/CARSHOW) | Car showcase web application | PHP |
+
+## 📫 Get in Touch
+- Email: bmutembei715@gmail.com  
+- Location: Meru, Kenya
