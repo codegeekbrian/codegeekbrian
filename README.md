@@ -20,4 +20,4 @@ from idea to working product.
 
 ## 📫 Get in Touch
 - Email: bmutembei715@gmail.com  
-- Location: Meru, Kenya
+- Location: Kenya
