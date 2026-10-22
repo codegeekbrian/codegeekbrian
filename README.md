@@ -1,4 +1,4 @@
-# Hi, I'm Brian
+# Hi, I'm Brian👋
 
 I build full-stack web apps and machine learning systems, from the first idea to a working product.
 
