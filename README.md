@@ -22,4 +22,4 @@ I build full-stack web apps and machine learning systems, from the first idea to
 
 ## Get in touch
 
-Portfolio and contact details: [codegeekbrian.page.gd](https://codegeekbrian.vercel.app)
+Portfolio and contact details: [codegeekbrian](https://codegeekbrian.vercel.app)
